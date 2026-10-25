@@ -16,7 +16,7 @@ export function Contact() {
       <div className="reveal mt-10 rounded-2xl border border-emerald-500/30 bg-gradient-to-br from-emerald-500/10 to-transparent p-8 text-center sm:p-12">
         <h3 className="text-2xl font-bold text-white sm:text-3xl">Vamos conversar?</h3>
         <p className="mx-auto mt-4 max-w-xl text-gray-300">
-          Aberto a oportunidades como desenvolvedor backend ou full stack.
+          Aberto a oportunidades como desenvolvedor full stack.
         </p>
         <ul className="mt-10 grid gap-4 text-left sm:grid-cols-2">
           {channels.map((channel) => {

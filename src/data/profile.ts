@@ -25,9 +25,9 @@ import {
 
 export const profile = {
   name: "Fabrício Longo Bucco",
-  role: "Desenvolvedor Backend",
+  role: "Desenvolvedor Full Stack",
   headline:
-    "Desenvolvo APIs e microsserviços com Java, Spring Framework e Node.js/NestJS, com Docker, RabbitMQ e bancos relacionais.",
+    "Desenvolvo APIs e microsserviços com Java, Spring Framework e Node.js/NestJS, e interfaces web com React e Next.js.",
   email: "longobuccodev@gmail.com",
   github: "https://github.com/Fbclongobucco",
   githubHandle: "Fbclongobucco",

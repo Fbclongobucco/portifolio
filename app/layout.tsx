@@ -13,9 +13,9 @@ const jetbrainsMono = JetBrains_Mono({
   variable: "--font-jetbrains-mono",
 });
 
-const title = `${profile.name} | ${profile.role} Java, Spring e Node.js`;
+const title = `${profile.name} | ${profile.role} Java, Spring, Node.js e React`;
 const description =
-  "Portfólio de Fabrício Longo Bucco, desenvolvedor backend Java, Spring Framework e Node.js/NestJS. APIs RESTful, microsserviços, Docker, RabbitMQ, PostgreSQL, React e Next.js.";
+  "Portfólio de Fabrício Longo Bucco, desenvolvedor full stack Java, Spring Framework, Node.js/NestJS, React e Next.js. APIs RESTful, microsserviços, Docker, RabbitMQ e PostgreSQL.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(profile.siteUrl),
@@ -26,6 +26,7 @@ export const metadata: Metadata = {
   creator: profile.name,
   keywords: [
     "Fabrício Longo Bucco",
+    "desenvolvedor full stack",
     "desenvolvedor backend",
     "desenvolvedor Java",
     "Spring Framework",
